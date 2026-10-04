@@ -5,30 +5,32 @@ Soy una estudiante de Ciberseguridad enfocada en el área de **Blue Team**, moni
 
 - 🎓 **Formación actual:** Estudiando el Curso de Especialización en Ciberseguridad.
 - 📖 **Write-Ups & Proyectos:** Documento mi aprendizaje en **[mi GitBook]()**.
-- 📧 **Contacto:** [Correo](hola@luciamartin.dev) | [LinkedIn](https://www.linkedin.com/in/lucia-martin-hernandez/)
+- 📧 **Contacto:** [hola@luciamartin.dev] | [LinkedIn](https://www.linkedin.com/in/lucia-martin-hernandez/)
 
 
-## 🛠️ Áreas de interés & conocimientos
+## 🛠️ Habilidades & Áreas de interés
 
 **Seguridad Defensiva:**
-- Monitoreo & análisis de logs
-- Análisis de tráfico de red
-- Gestión de riesgos & marcos de deguridad
 
-**Fundamentos Técnicos:**
-- Redes & protocolos
-- Scripting Básico: Bash, Python, PowerShell
-- Sistemas operativos: Linux & Windows
+Monitoreo & Análisis de Logs | Análisis de Tráfico de Red | Gestión de Riesgos & Marcos de Seguridad
+
+**Herramientas:**
+
+Wireshark | Nmap | Metasploit
+
+**Scripting & Automatización:**
+
+Bash | Python | PowerShell | SQL
 
 
-## 📜 Formación & cursos
+## 📜 Formación & Cursos
 
-### 🎓 Formación académica
+### 🎓 Formación Académica
 - **Curso de Especialización en Ciberseguridad** — *En curso*
 - **CFGS Desarrollo de Aplicaciones Multiplataforma** — *2024 - 2026*
 
-### 🏅 Cursos & certificados
-**Google Cybersecurity Certificate (Coursera)**
+### 🏅 Cursos & Certificados
+**Google Cybersecurity Certificate**
 - *Foundations of Cybersecurity*
 - *Play It Safe: Manage Security Risks*
   
